@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Nolan Dubeau  
-### Forward-Deployed Agentic Engineer • Full-Stack Product Builder • Founder, Advanced Creative Labs  
+### Forward-Deployed Agentic Engineer • Full-Stack Product Builder • Head of Product, Advanced Creative Labs  
 
 I design and ship **AI-native software end-to-end** — blending product strategy, system architecture, and creative engineering. My focus is on building the connective tissue between humans, agents, and code.  
 
